@@ -65,7 +65,7 @@ Important Learning
 
 If you create something AFTER backup…
 
-It will NOT come back after restore ❌
+It will NOT come back after restore
 
 Because backup = old state
 
@@ -73,6 +73,6 @@ What I Learned
 etcd = brain
 backup = memory
 restore = time travel
-⭐ If this helped you
+If this helped you
 
 Give this repo a ⭐
